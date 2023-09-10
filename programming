@@ -1,0 +1,14 @@
+wake up
+greetings
+pee
+drink water
+while (true) {
+    if(calendar.event != null) {
+        do(calendar.event)
+    }
+    else {
+        well-being
+        magic
+        work
+    }
+}
