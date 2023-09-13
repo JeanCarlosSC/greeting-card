@@ -1,13 +1,14 @@
 wake up
 greetings
 pee
-drink water
+drink water 6 oz per hour
 while (true) {
     if(calendar.event != null) {
         do(calendar.event)
     }
     else {
-        well-being
+        default
+        well-being()
         magic
         work
     }
