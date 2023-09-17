@@ -1,15 +1,24 @@
-wake up
-greetings
-pee
-drink water 6 oz per hour
-while (true) {
-    if(calendar.event != null) {
-        do(calendar.event)
-    }
-    else {
-        default
-        well-being()
-        magic
-        work
-    }
-}
+Routine
+    wake up
+    greetings
+    pee
+    drink water 6 oz per hour
+    while true:
+        if calendar.event != null:
+            do(calendar.event)
+        else:
+            default
+            well-being()
+            magic
+            work
+
+Priorities
+    Health: survival
+    College: survival purposes
+    Usaquén dojo: family, scale, health, eat, love, network, social, etc.
+
+Avoid
+    Grupo Parrandero UD
+
+Skills
+    Japanese: A duolingo lesson daily
